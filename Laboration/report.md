@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie-Recommendation System
 
 ## Vad gör programmet?
 
